@@ -1,0 +1,11 @@
+1. REST API adalah sebuah desain atau rancangan web yang tanpa harus terhubung
+   secara langsung tapi tetap dapat saling berkomunikasi antar aplikasi secara efektif.
+
+2.
+
+3.Headless Architecture adalah konsep software development yang memisahkan frontend dari layer backend sebuah website
+  dengan begitu flexibilitas kerja lebih dimudahkan.
+  kelebihannya adalah :
+  -Flexibility
+  -Omnichannel
+  -Faster/Agility
